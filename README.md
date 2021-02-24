@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Brasil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-brasil-a88b84180/)](https://www.linkedin.com/in/guilherme-brasil-a88b84180/)
 
 <!--
 **brgui/brgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
